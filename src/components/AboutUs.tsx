@@ -35,9 +35,9 @@ const AboutUs = () => {
               <div className="flex items-center mb-2">
                 <span className="text-gray-700 font-semibold mr-2">Client Satisfaction</span>
                 <div className="flex-grow bg-gray-200 rounded-full h-2">
-                  <div className="bg-blue-600 h-2 rounded-full" style={{width: '95%'}}></div>
+                  <div className="bg-blue-600 h-2 rounded-full" style={{width: '100%'}}></div>
                 </div>
-                <span className="text-blue-600 font-semibold ml-2">95%</span>
+                <span className="text-blue-600 font-semibold ml-2">100%</span>
               </div>
             </div>
             <button className="bg-blue-600 text-white font-bold py-3 px-6 rounded-full hover:bg-blue-700 transition duration-300">
