@@ -13,7 +13,7 @@ const Hero = () => {
       </div>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-40 relative z-10">
         <div className="md:w-2/3 lg:w-1/2">
-          <h1 className="text-5xl font-bold mb-6 leading-tight">Stoic Business Solutions</h1>
+          <h1 className="text-5xl font-bold mb-6 leading-tight">Epic Concepts</h1>
           <p className="text-xl mb-10 text-blue-100"> Workforce benefits group specializing in Self-Insured Medical Reimbursement (SIMERP) Cafeteria 125 Plans</p>
           <button className="bg-white text-blue-600 font-bold py-3 px-6 rounded-full hover:bg-blue-100 transition duration-300 flex items-center">
             Book Appointment

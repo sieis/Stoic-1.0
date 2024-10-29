@@ -8,17 +8,17 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="flex items-center mb-4 md:mb-0">
             <Heart className="h-6 w-6 text-blue-400 mr-2" />
-            <span className="text-xl font-bold">Stoic Business Solutions</span>
+            <span className="text-xl font-bold">Epic Concepts</span>
           </div>
           <div className="flex space-x-4">
-            <a href="#" className="hover:text-blue-400">About</a>
-            <a href="#" className="hover:text-blue-400">Services</a>
-            <a href="#" className="hover:text-blue-400">Contact</a>
+            <a href="#about" className="hover:text-blue-400">About</a>
+            <a href="#services" className="hover:text-blue-400">Services</a>
+            <a href="#contact" className="hover:text-blue-400">Contact</a>
             <a href="#" className="hover:text-blue-400">Privacy Policy</a>
           </div>
         </div>
         <div className="mt-8 text-center text-sm text-gray-400">
-          © 2023 Stoic Business Solutions. All rights reserved.
+          © 2023 Epic Concepts. All rights reserved.
         </div>
       </div>
     </footer>

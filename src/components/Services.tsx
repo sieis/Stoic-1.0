@@ -2,7 +2,7 @@ import React from 'react';
 import { Stethoscope, Pill, Activity } from 'lucide-react';
 
 const ServiceCard = ({ icon: Icon, title, description, imageSrc }) => (
-  <div className="bg-white rounded-lg shadow-md overflow-hidden">
+  <div className="bg-white rounded-lg shadow-md overflow-hidden" id='services'>
     <div className="relative">
       <img src={imageSrc} alt={title} className="w-full h-48 object-cover" />
       <div className="absolute bottom-0 left-1/2 transform -translate-x-1/2 translate-y-1/2 bg-white rounded-full p-4">

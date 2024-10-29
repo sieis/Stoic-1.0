@@ -23,10 +23,10 @@ const AboutUs = () => {
             </div>
           </div>
           <div className="lg:w-1/2 lg:pl-16">
-            <h2 className="text-blue-600 font-semibold text-lg mb-2">ABOUT US</h2>
-            <h3 className="text-4xl font-bold mb-6">Stoic Business Solutions, LLC</h3>
+            <h2 className="text-blue-600 font-semibold text-lg mb-2" id="about">ABOUT US</h2>
+            <h3 className="text-4xl font-bold mb-6">Epic Concepts</h3>
             <p className="text-gray-600 mb-8">
-              Stoic Business Solutions is a leading workforce benefits group specializing in Self-Insured Medical Expense Reimbursement Plans (SIMERP) and Cafeteria 125 Plans. We provide innovative solutions to help businesses optimize their employee benefits while reducing costs.
+              Epic Concepts is a leading workforce benefits group specializing in Self-Insured Medical Expense Reimbursement Plans (SIMERP) and Cafeteria 125 Plans. We provide innovative solutions to help businesses optimize their employee benefits while reducing costs.
             </p>
             <p className="text-gray-600 mb-8">
               Our team of experts is dedicated to delivering tailored benefit strategies that meet the unique needs of each client. With years of experience in the industry, we've helped numerous businesses nationwide implement effective SIMERP and Cafeteria 125 Plans.
